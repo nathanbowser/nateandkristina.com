@@ -37,10 +37,9 @@ h3 {
 }
 
 #header {
-	border-bottom: 1px solid #463C3C;
 	vertical-align: baseline;
-	border-top: 100px;
-	padding-top: 100px;
+	border-top: 105px;
+	padding-top: 140px;
 }
 
 #nav {
